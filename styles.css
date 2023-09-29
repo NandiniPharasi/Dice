@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #a371ce7b;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-decoration: wavy;
+  text-shadow: 5px 0 #1f2123;
+  font-size: 7rem;
+  color: #bd0606;
+}
+.white{
+color: rgb(255, 255, 255);
+}
+p {
+  font-size: 2rem;
+  color: #4f086c;
+  font-family: 'Lobster', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #4f086c;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
